@@ -1,0 +1,30 @@
+{
+  "name": "Thre3 ",
+  "symbol": "T3",
+  "description": "A 6666 digital art collection that symbolizes freedom, youthfulness and liveliness. Be one of the Thre3, set yourself free.",
+  "seller_fee_basis_points": 599,
+  "image": "https://raw.githubusercontent.com/thre3art/nft/1c205d7977831eb5068c39a963cfadbc9b7f384c/placeholder.png",
+  "external_url": "https://thre3.art",
+  "edition": 0,
+  "collection": {
+    "name": "Thre3",
+    "family": "Thre3"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/thre3art/nft/1c205d7977831eb5068c39a963cfadbc9b7f384c/placeholder.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3RvvD1D1pN5m6mJ7BZdkHYbuL3Aq6pZvJkjyZ4yg8A2c",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+  ]
+}
